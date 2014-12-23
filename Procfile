@@ -1,1 +1,1 @@
-worker: bundle exec ruby egostream.rb
+web: bundle exec ruby egostream.rb
